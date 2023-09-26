@@ -22,6 +22,8 @@ Useful Supervisor commands (ubuntu):
     - ![Php output](/screenshoots/php2.png)
 
 
+<br/>
+<br/>
 
 ## Example Supervisor conf (ubuntu) - Python:
 
