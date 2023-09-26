@@ -5,6 +5,7 @@
 <br />
 - PHP: location of the conf file /etc/supervisor/conf.d/password_generator.conf
 <br />
+
 ![Php conf settings](/screenshoots/phpconf4.png)
 
 Useful Supervisor commands (ubuntu):
@@ -26,6 +27,7 @@ Useful Supervisor commands (ubuntu):
 <br />
 - Python: location of the conf file /etc/supervisor/conf.d/password_generator_py.conf
 <br />
+
 ![Python conf settings](/screenshoots/pyconf3.png)
 
 
