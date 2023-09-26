@@ -1,6 +1,6 @@
 # A password generator using PHP and Python in each X seconds intervals
 
-## Example Supervisor conf (ubuntu):
+## Example Supervisor conf (ubuntu) - PHP:
 
 <br />
 - PHP: location of the conf file /etc/supervisor/conf.d/password_generator.conf
@@ -22,6 +22,8 @@ Useful Supervisor commands (ubuntu):
     - ![Php output](/screenshoots/php2.png)
 
 
+
+## Example Supervisor conf (ubuntu) - Python:
 
 
 <br />
